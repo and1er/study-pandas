@@ -2,6 +2,8 @@
 
 Study python's package Pandas for real world data analysis in Python.
 
+[![GitHub Super-Linter](https://github.com/and1er/study-pandas/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 ## Requirements
 
 * Python 3.7+;
